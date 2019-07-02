@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "Stream 3",
+      "description": "Nice stream-3",
+      "id": 3
+    },
+    {
+      "title": "After navigation. updated the title too.",
+      "description": "This is the description. sbba.",
+      "id": 6
+    },
+    {
+      "title": "React Stream",
+      "description": "This is a React Stream",
+      "userId": "106900531968285493140",
+      "id": 7
+    },
+    {
+      "title": "Switch ",
+      "description": "Switch Works",
+      "userId": "106900531968285493140",
+      "id": 8
+    }
+  ]
+}
